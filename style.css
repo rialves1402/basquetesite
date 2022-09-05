@@ -1,0 +1,39 @@
+body{
+  background-color: #aeaeae
+}
+h2{
+  text-align: center; font-size: 60px; font-family: monospace;
+}
+h3{
+  text-align: justify; font-size: 30px; font-family: sans-serif;
+}
+h4{
+  text-align: justify;font-size: 25px;font-family: inherit;
+}
+#curry{
+  width: 10%
+}
+#thompson{
+  width: 10%
+}
+#Grenn{
+  width: 10%
+}
+#wiggens{
+  width: 10%
+}
+#looney{
+  width: 10%
+}
+#center{
+  width: 50%
+}
+#dentro{
+  width: 50%
+}
+#goldenstate{
+  width: 60%
+}
+#logo{
+  width: 30%
+}
