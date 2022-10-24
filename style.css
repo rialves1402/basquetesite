@@ -10,6 +10,9 @@ h3{
 h4{
   text-align: justify;font-size: 25px;font-family: inherit;
 }
+h5{
+  text-align: justify;flex-flow: column-reverse; 50padding:
+}
 #curry{
   width: 10%
 }
@@ -36,4 +39,29 @@ h4{
 }
 #logo{
   width: 30%
+}
+#azul.png{
+  width: 10%
+}
+
+.camisa-preta3{
+    width: 23%
+}
+.camisa-preta{
+  width: 23%
+}
+.camisa-branca{
+  width: 23%
+}
+.camisa-amarela2{
+  width: 24%
+}
+.camisa-branca5{
+  width: 23%
+}
+.camisa-azul5{
+  width: 29%
+}
+.camisa-cinza1{
+  width: 29%
 }
